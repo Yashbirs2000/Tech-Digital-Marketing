@@ -50,5 +50,14 @@ cd Tech-Digital-Marketing
 start home.html  # Windows
 open home.html   # macOS
 
+## SCREENSHOTS
 
- 
+![HOMEPAGE](https://github.com/user-attachments/assets/966b8877-edd4-4f46-80e4-de9614c673ff)
+![CHATBOX](https://github.com/user-attachments/assets/de165e0c-38f5-4e50-b01a-25d41bebf2a0)
+![CALL SUPPORT](https://github.com/user-attachments/assets/8219f5f8-49b1-459b-9704-3cea66494ea2)
+![BOOK DEMO](https://github.com/user-attachments/assets/cbfe62c4-31f0-48e2-89ea-5990e8a48bf6)
+![DOWNLOAD CURRI](https://github.com/user-attachments/assets/6463504e-b59c-4551-b75f-9a46dcae774d)
+![Screenshot (43)](https://github.com/user-attachments/assets/9327f20d-0806-4cc8-87b4-d24901dad973)
+![HIGHLIGHT](https://github.com/user-attachments/assets/5b9c36a8-ddd4-4aad-aa89-9f5c3c492217)
+![FAQ](https://github.com/user-attachments/assets/2d15d066-0b81-4b50-b3db-0398c9662eeb)
+![CURRICULUM](https://github.com/user-attachments/assets/e90cde0a-0b66-47bf-b974-38262e554985)
