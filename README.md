@@ -42,22 +42,34 @@ Tech-Digital-Marketing/
 
 1. **Clone the Repository**
 
-```bash
 git clone https://github.com/Yashbirs2000/Tech-Digital-Marketing.git
 cd Tech-Digital-Marketing
-
 
 start home.html  # Windows
 open home.html   # macOS
 
-## SCREENSHOTS
+You can also launch it using Live Server in VS Code.
 
-![HOMEPAGE](https://github.com/user-attachments/assets/966b8877-edd4-4f46-80e4-de9614c673ff)
-![CHATBOX](https://github.com/user-attachments/assets/de165e0c-38f5-4e50-b01a-25d41bebf2a0)
-![CALL SUPPORT](https://github.com/user-attachments/assets/8219f5f8-49b1-459b-9704-3cea66494ea2)
-![BOOK DEMO](https://github.com/user-attachments/assets/cbfe62c4-31f0-48e2-89ea-5990e8a48bf6)
-![DOWNLOAD CURRI](https://github.com/user-attachments/assets/6463504e-b59c-4551-b75f-9a46dcae774d)
-![Screenshot (43)](https://github.com/user-attachments/assets/9327f20d-0806-4cc8-87b4-d24901dad973)
-![HIGHLIGHT](https://github.com/user-attachments/assets/5b9c36a8-ddd4-4aad-aa89-9f5c3c492217)
-![FAQ](https://github.com/user-attachments/assets/2d15d066-0b81-4b50-b3db-0398c9662eeb)
-![CURRICULUM](https://github.com/user-attachments/assets/e90cde0a-0b66-47bf-b974-38262e554985)
+## SCREENSHOTS
+![HOMEPAGE](https://github.com/user-attachments/assets/d13f6a9c-4554-44c0-90fb-3b5e1d6adcbd)
+
+![CHATBOX](https://github.com/user-attachments/assets/fa5e17f4-e479-49f8-ba79-890d916bbd33)
+
+![CALL SUPPORT](https://github.com/user-attachments/assets/bc99c1f7-bd6c-4a96-b5d0-baf19d3ed6d6)
+
+![BOOK DEMO](https://github.com/user-attachments/assets/5c7496a4-d118-42e3-b1d2-39389bc5c9a7)
+
+![DOWNLOAD CURRI](https://github.com/user-attachments/assets/d3f9f4c3-0b2c-4728-93af-3acad04a22fd)
+
+![Screenshot (43)](https://github.com/user-attachments/assets/02e12155-fc6c-4239-afa3-2d9d69a1c740)
+
+![HIGHLIGHT](https://github.com/user-attachments/assets/183df5a0-92dc-4d23-93d7-299bb12f265d)
+
+![CURRICULUM](https://github.com/user-attachments/assets/e889e772-24a1-4c27-8d73-64a62fae65eb)
+
+![FAQ](https://github.com/user-attachments/assets/3f65b23a-6167-468e-8c9a-26a656752ce6)
+
+## 🙋‍♂️  CONTACT 
+GitHub: @Yashbirs2000
+Email: yashbirs2001@gmail.com
+Linkedin: https://www.linkedin.com/in/yashbir0001/
